@@ -1,0 +1,18 @@
+.ImageCard{
+    height:300px;
+    width:350px;
+    border:2px solid red;
+}
+.catdiv{
+    border:1px solid black;
+    height:120px;
+    width:120px;
+    margin-left: 70px;
+    margin-top: 70px;
+    background-color: brown;
+}
+.buttondiv{
+    padding-top:30px;
+    padding-bottom:30px;
+    background-color: rgb(242, 52, 52);
+}
